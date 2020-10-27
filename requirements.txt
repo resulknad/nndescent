@@ -1,0 +1,5 @@
+sklearn
+numpy
+pynndescent
+matplotlib
+pandas>=1.0.3

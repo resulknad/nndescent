@@ -1,0 +1,11 @@
+audio.data
+__pycache__
+pip-env
+.vscode
+a.out
+*perf.out
+gmon.out
+/output
+/data
+/.vs
+*.csv
