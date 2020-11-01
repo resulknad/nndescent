@@ -1,4 +1,5 @@
 # Nearest Neighbour Descent
+*see report for background: [52_report.pdf](52_report.pdf)*
 
 This is the repository for the Advanced Systems Lab project by:
 - Jonas
